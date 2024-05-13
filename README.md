@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AnjaliMuley21
+- 👋 Hi, I’m @Anjali Muley
 - 👀 I’m interested in C ,C++,Java, Artificial Intelligence, and Open- Source Project
 - 🌱 I’m currently learning  Programming Language
 - 📫 How to reach me via email at muleyanjali0@gmail.com as well through linkedin www.linkedin.com/in/anjali-muley-contactme
